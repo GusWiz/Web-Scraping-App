@@ -1,7 +1,17 @@
 Web Scraping Notebook for practice.
 
-Required packages:
+Virtual Environment Setup:
+- Python:
+  - python -m venv env
+  - .\venv\Scripts\activate
+  - pip install {dependencies names}
 
-request
-BeautifulSoup
-pandas
+Required packages:
+- request
+- BeautifulSoup
+- pandas
+
+Project Overview:
+- A takeway from this practice was the ethical and legal consideration of web scraping.
+- Checking the sites rules on their bot/script rules.
+- Utilizing my native browsers tools to view the structure of a site. 
