@@ -8,7 +8,7 @@ Virtual Environment Setup:
 
 Required packages:
 - request
-- BeautifulSoup
+- beautifulsoup4
 - pandas
 
 Project Overview:
